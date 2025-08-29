@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 Visualisation and Data Storytelling using R
 
 [![R](https://img.shields.io/badge/Made%20with-R-blue.svg)](https://www.r-project.org/)
@@ -60,3 +61,7 @@ Clone the repo:
 ```bash
 git clone https://github.com/HabtamuBizuayehu/visualisation-data-storytelling.git
 cd visualisation-data-storytelling
+=======
+# Visualisation_stoy_telling
+This is Data visualisation using R
+>>>>>>> 8dd53c8401a78d61cb85f8fa0f315e4236fdcaf3
