@@ -22,7 +22,9 @@ It emphasises:
 - **Transparency** → charts that make assumptions and uncertainty explicit.  
 
 👉 The **full guide and examples** are available in the compiled HTML:  
-[📖 Open Visualisation Guide](Visualisation.html)
+[📖 Open Visualisation Guide Website](Visualisation.html)
+
+Full Guide: https://habtamuBizuayehu.github.io/Visualisation_story_telling/Visualisation.html
 
 ---
 
