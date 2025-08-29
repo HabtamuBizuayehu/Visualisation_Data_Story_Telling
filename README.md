@@ -24,12 +24,9 @@ It emphasises:
 👉 The **full guide and examples** are available in the compiled HTML:  
 [📖 Open Visualisation Guide Website](Visualisation.html)
 
-<<<<<<< Updated upstream
 Full Guide: https://habtamuBizuayehu.github.io/Visualisation_Data_Story_Telling/Visualisation.html
-=======
+---
 Full Guide: https://habtamuBizuayehu.github.io/Visualisation_story_telling/Visualisation.html
->>>>>>> Stashed changes
-
 ---
 
 ## 🖼️ Preview of Figures
