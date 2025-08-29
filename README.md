@@ -1,8 +1,14 @@
 # 📊 Visualisation and Data Storytelling using R
 
+<<<<<<< Updated upstream
 **Website:** https://github.com/HabtamuBizuayehu/Visualisation_Data_Story_Telling/settings/pages
 
 **Full Guide:** https://habtamuBizuayehu.github.io/Visualisation_Data_Story_Telling/Visualisation.html
+=======
+**Website:** https://habtamuBizuayehu.github.io/Visualisation_story_telling/
+
+**Full Guide:** https://habtamuBizuayehu.github.io/Visualisation_story_telling/Visualisation.html
+>>>>>>> Stashed changes
 
 [![R](https://img.shields.io/badge/Made%20with-R-blue.svg)](https://www.r-project.org/)
 [![ggplot2](https://img.shields.io/badge/ggplot2-visualisation-orange)](https://ggplot2.tidyverse.org/)
@@ -24,7 +30,11 @@ It emphasises:
 👉 The **full guide and examples** are available in the compiled HTML:  
 [📖 Open Visualisation Guide Website](Visualisation.html)
 
+<<<<<<< Updated upstream
 Full Guide: https://habtamuBizuayehu.github.io/Visualisation_Data_Story_Telling/Visualisation.html
+=======
+Full Guide: https://habtamuBizuayehu.github.io/Visualisation_story_telling/Visualisation.html
+>>>>>>> Stashed changes
 
 ---
 
@@ -69,9 +79,15 @@ Below are sample outputs generated in this project:
 #Tidyverse #Forcats #Scales #InteractiveVisualisation #ReproducibleResearch  
 #OpenScience #Epidemiology #HealthDataStorytelling #Quarto
 
+<<<<<<< Updated upstream
 **Website:** https://habtamuBizuayehu.github.io/Visualisation_Data_Story_Telling/
 
 **Full Guide:** https://habtamuBizuayehu.github.io/Visualisation_Data_Story_Telling/Visualisation.html
+=======
+**Website:** https://habtamuBizuayehu.github.io/Visualisation_story_telling/
+
+**Full Guide:** https://habtamuBizuayehu.github.io/Visualisation_story_telling/Visualisation.html
+>>>>>>> Stashed changes
 
 [![R](https://img.shields.io/badge/Made%20with-R-blue.svg)](https://www.r-project.org/)
 [![ggplot2](https://img.shields.io/badge/ggplot2-visualisation-orange)](https://ggplot2.tidyverse.org/)
