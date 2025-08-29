@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📊 Visualisation and Data Storytelling using R
 
 [![R](https://img.shields.io/badge/Made%20with-R-blue.svg)](https://www.r-project.org/)
