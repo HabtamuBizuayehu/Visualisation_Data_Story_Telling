@@ -1,7 +1,7 @@
 # 📊 Visualisation and Data Storytelling using R
 
-**Website:** https://habtamuBizuayehu.github.io/Visualisation_story_telling/  
-**Full Guide:** https://habtamuBizuayehu.github.io/Visualisation_story_telling/Visualisation.html
+**Website:** https://habtamuBizuayehu.github.io/Visualisation_story_telling/\
+**Full Guide:** https://habtamuBizuayehu.github.io/Visualisation_story_telling/Visualisation.html\
 [![R](https://img.shields.io/badge/Made%20with-R-blue.svg)](https://www.r-project.org/)
 [![ggplot2](https://img.shields.io/badge/ggplot2-visualisation-orange)](https://ggplot2.tidyverse.org/)
 
