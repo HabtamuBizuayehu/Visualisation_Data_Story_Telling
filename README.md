@@ -54,13 +54,11 @@ Below are sample outputs generated in this project:
 
 ---
 
-## ⚙️ Getting Started
+---
 
-Clone the repo:
-```bash
-git clone https://github.com/HabtamuBizuayehu/visualisation-data-storytelling.git
-cd visualisation-data-storytelling
-=======
-# Visualisation_stoy_telling
-This is Data visualisation using R
->>>>>>> 8dd53c8401a78d61cb85f8fa0f315e4236fdcaf3
+## 🔖 Tags / Keywords
+
+#R #DataVisualisation #DataStorytelling #ggplot2 #Shiny #PublicHealthData  
+#RStats #DataScience #DataAnalytics #HealthAnalytics #DataVisualizationInR  
+#Tidyverse #Forcats #Scales #InteractiveVisualisation #ReproducibleResearch  
+#OpenScience #Epidemiology #HealthDataStorytelling #Quarto
