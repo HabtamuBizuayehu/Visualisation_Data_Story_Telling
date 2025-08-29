@@ -1,14 +1,9 @@
 # 📊 Visualisation and Data Storytelling using R
 
-<<<<<<< Updated upstream
 **Website:** https://github.com/HabtamuBizuayehu/Visualisation_Data_Story_Telling/settings/pages
 
 **Full Guide:** https://habtamuBizuayehu.github.io/Visualisation_Data_Story_Telling/Visualisation.html
 =======
-**Website:** https://habtamuBizuayehu.github.io/Visualisation_story_telling/
-
-**Full Guide:** https://habtamuBizuayehu.github.io/Visualisation_story_telling/Visualisation.html
->>>>>>> Stashed changes
 
 [![R](https://img.shields.io/badge/Made%20with-R-blue.svg)](https://www.r-project.org/)
 [![ggplot2](https://img.shields.io/badge/ggplot2-visualisation-orange)](https://ggplot2.tidyverse.org/)
@@ -84,10 +79,5 @@ Below are sample outputs generated in this project:
 
 **Full Guide:** https://habtamuBizuayehu.github.io/Visualisation_Data_Story_Telling/Visualisation.html
 =======
-**Website:** https://habtamuBizuayehu.github.io/Visualisation_story_telling/
-
-**Full Guide:** https://habtamuBizuayehu.github.io/Visualisation_story_telling/Visualisation.html
->>>>>>> Stashed changes
-
 [![R](https://img.shields.io/badge/Made%20with-R-blue.svg)](https://www.r-project.org/)
 [![ggplot2](https://img.shields.io/badge/ggplot2-visualisation-orange)](https://ggplot2.tidyverse.org/)
